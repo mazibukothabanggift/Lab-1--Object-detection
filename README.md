@@ -1,2 +1,3 @@
-# Lab-1--Object-detection
-Train a machine learning model using the YOLOv8 to recognise an object or action that involves you. You must be recognisable in the training data. Analyse the data collection process and Teachable Machine's functionalities, reflecting on your learnings and potential applications.
+Training a Machine Learning Model with YOLOv8
+
+A computer vision project implementing YOLOv8 for object detection and tracking. The system can detect objects in static images with bounding box visualization, track multiple objects across video frames with unique identifiers, and perform real-time detection through webcam feed. Demonstrates practical applications of deep learning in computer vision.
